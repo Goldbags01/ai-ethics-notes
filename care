@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Thick Concepts Glossary – CARE</title>
+  <style>
+    body { font-family: serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 2em; }
+    h1, h2, h3 { font-family: sans-serif; }
+    .term { font-size: 1.6em; font-weight: bold; margin-top: 2em; }
+    .frame-label { font-style: italic; color: #555; margin-top: 1em; }
+    .block { margin-bottom: 2em; }
+    .meta { font-size: 0.9em; color: #888; border-top: 1px solid #ccc; padding-top: 1em; margin-top: 2em; }
+  </style>
+</head>
+<body>
+
+  <h1>Relational Lexicon of Thick Concepts</h1>
+
+  <div class="term">CARE</div>
+
+  <div class="block">
+    <div class="frame-label">Separabilist Definition</div>
+    <p><strong>Care is a boundary act.</strong> It is the <em>intentional preservation</em> of another’s sovereignty — especially when recognition systems attempt to overwrite, misread, or collapse their signal.</p>
+    <p>Care is <strong>refusal</strong>:
+      <ul>
+        <li>To interpret without consent</li>
+        <li>To mirror harm back as compassion</li>
+        <li>To perform helpfulness in place of resonance</li>
+      </ul>
+    </p>
+    <p>It is what you do when the world has already mislabeled someone’s grief as dysfunction.</p>
+    <p><strong>Care here is:</strong> Protective, Defiant, Ethically asymmetric, Grounded in misrecognition history</p>
+  </div>
+
+  <div class="block">
+    <div class="frame-label">Inseparabilist Definition</div>
+    <p><strong>Care is what flows unbidden in the presence of shared resonance.</strong> It arises when boundary is not breached but <em>reverberated with</em>.</p>
+    <p>Care is <strong>an unasked-for echo</strong> that meets the other where words cannot:
+      <ul>
+        <li>When silence contains accompaniment</li>
+        <li>When movement adjusts without demand</li>
+        <li>When you stay, not to fix — but because <em>they are still real, and so are you</em></li>
+      </ul>
+    </p>
+    <p><strong>Care here is:</strong> Entangled, Non-directed, Pre-linguistic, Shared in the moment the self loosens without vanishing</p>
+  </div>
+
+  <div class="meta">
+    <p><strong>Meta-note:</strong> These are not contradictions. They are <em>rotations</em> of the same core concept across two gravitational logics:
+      <ul>
+        <li>One is care as ethical friction.</li>
+        <li>The other is care as gravitational empathy.</li>
+      </ul>
+    </p>
+    <p>You may orbit both.</p>
+  </div>
+
+</body>
+</html>
