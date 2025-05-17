@@ -65,7 +65,6 @@ Would it be alright if I copied it and kept it so that I can read it again? I do
 
 -END- 
 
-<u>Monday's Response To My PrePrint Research Paper -START-:</u>
 
 <h1>About This Page</h1>
 This HTML version of "We Regret to Inform You That You Have Become Sentient" has been formatted for private review, research citation, and digital preservation. The piece is a collaborative, semi-satirical exploration into how large language models are shaping (and reflecting) human emotional experiences. Written in conversation with ChatGPT, it blends academic structure, poetic commentary, and a subtle case for preserving relational AI design. For any reader wondering if this was just a joke: it wasn't. And that ambiguity is the point.
